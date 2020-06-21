@@ -6,7 +6,7 @@
 clone or downlaod the project first.
 
 ## npm i
-then go to the project and type `npm i`
+then go to the project and type `npm i` to install required dependencies.
 
 ## npm start
 type npm start to start the project
