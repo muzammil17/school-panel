@@ -64,11 +64,11 @@ class DefaultHeader extends Component {
           
           <UncontrolledDropdown nav direction="down" className='mr-3'>
             <DropdownToggle nav>
-              <img
-                src={"../../assets/img/avatars/6.jpg"}
-                className="img-avatar"
-                alt="admin@bootstrapmaster.com"
-              />
+//               <img
+//                 src={"../../assets/img/avatars/6.jpg"}
+//                 className="img-avatar"
+//                 alt="admin@bootstrapmaster.com"
+//               />
             </DropdownToggle>
             <DropdownMenu right>
                <DropdownItem header tag="div" className="text-center">
